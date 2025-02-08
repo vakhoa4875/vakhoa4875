@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vakhoa4875" alt="vakhoa4875" /></a> </p>
 
-- 🔭 I’m currently working on **Tan Hung Church**
-
-- 🌱 I’m currently learning **React JS, Japanese**
+- 🌱 I’m currently learning **Microservices, Japanese**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **vakhoa4875@gmail.com**
+- 📫 How to reach me **khoadev2004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OfUSzYj4D8XwvkFQifZiKLNufGSiK1lz/view?usp=sharing](https://drive.google.com/file/d/1OfUSzYj4D8XwvkFQifZiKLNufGSiK1lz/view?usp=sharing)
 
