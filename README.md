@@ -11,14 +11,14 @@
 
 - 📫 How to reach me **khoadev2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OfUSzYj4D8XwvkFQifZiKLNufGSiK1lz/view?usp=sharing](https://drive.google.com/file/d/1OfUSzYj4D8XwvkFQifZiKLNufGSiK1lz/view?usp=sharing)
+- 📄 Know about my experiences [Software Developer Portfolio](https://life-solving.notion.site/Software-Developer-Porfolio-194def95bcb980168801dcdb593972e5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khoa-vu-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoa-vu-dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khoa-ambdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoa-vu-dev" height="30" width="40" /></a>
 <a href="https://fb.com/khoavu.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khoavu.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@khoavu8223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@khoavu8223" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jojinxtheseventh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jojinxtheseventh7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kdev2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jojinxtheseventh7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
